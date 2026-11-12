@@ -5,6 +5,14 @@ Wholesale supply chain inflation forces retail finance leadership to decide betw
 1. **Absorbing cost inflation** to protect volume, causing immediate gross margin compression.
 2. **Passing through cost increases**, which risks demand destruction depending on category price elasticity (β).
 
+## Interactive Dashboard (Tableau Public)
+
+<a href="https://public.tableau.com/app/profile/jamie.tyner/viz/ElasticitySpectrum/Dashboard1" target="_blank">
+  <img width="1852" height="807" alt="Retail Margin & Volume Elasticity Tableau Dashboard" src="https://github.com/user-attachments/assets/bf66dfd8-a398-4acc-ad01-94f3f068814b" />
+</a>
+
+👉 **[Open Live Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/jamie.tyner/viz/ElasticitySpectrum/Dashboard1)**
+
 This project combines econometric demand estimation (β = %ΔQ / %ΔP) with dynamic financial scenario modeling (+5%, +10%, +15% cost inflation) to evaluate category profitability under **Absorb Cost** vs. **Pass-Through** strategies.
 
 ## 1. Econometric Price Elasticity Estimation (β)
